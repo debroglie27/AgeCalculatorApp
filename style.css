@@ -21,7 +21,6 @@ main {
 .main-container {
     width: 550px;
     padding: 40px;
-    margin: 60px 20px;
     background-color: hsl(0, 0%, 100%);
     border-radius: 10px 10px 140px 10px;
     box-shadow: 0px 0px 14px -4px rgba(0,0,0,0.33);
@@ -111,6 +110,7 @@ main {
     .main-container {
         width: 330px;
         padding: 40px 25px;
+        margin: 20px 10px 40px 10px;
     }
 
     .inputs-container {
